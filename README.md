@@ -1,2 +1,2 @@
 # monty_compiler
-Using Stack and Queue to build a monty program compiler
+Using Stack and Queues to build a monty code interpreter
